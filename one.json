@@ -2,49 +2,49 @@
     {
       "userId": 1,
       "id": 1,
-      "title": "delectus aut autem",
+      "title": "Face Detection",
       "completed": false
     },
     {
       "userId": 1,
       "id": 2,
-      "title": "quis ut nam facilis et officia qui",
+      "title": "Emotion Detector",
       "completed": false
     },
     {
       "userId": 1,
       "id": 3,
-      "title": "fugiat veniam minus",
+      "title": "Wrong Way Detection",
       "completed": false
     },
     {
       "userId": 1,
       "id": 4,
-      "title": "et porro tempora",
+      "title": "Licence Plate Detection",
       "completed": true
     },
     {
       "userId": 1,
       "id": 5,
-      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "title": "Camera Tampering",
       "completed": false
     },
     {
       "userId": 1,
       "id": 6,
-      "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "title": "Speed detection",
       "completed": false
     },
     {
       "userId": 1,
       "id": 7,
-      "title": "illo expedita consequatur quia in",
+      "title": "Trip wire",
       "completed": false
     },
     {
       "userId": 1,
       "id": 8,
-      "title": "quo adipisci enim quam ut ab",
+      "title": "Trespass",
       "completed": true
     },
     {
@@ -56,7 +56,7 @@
     {
       "userId": 1,
       "id": 10,
-      "title": "illo est ratione doloremque quia maiores aut",
+      "title": "Age and Gender classification",
       "completed": true
     }
   ]
